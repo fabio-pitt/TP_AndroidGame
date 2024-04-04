@@ -24,5 +24,5 @@ The Content folder is filled with:
 "On mobile the SkyAtmosphere component needs a mesh with a material tagged as IsSky and using the SkyAtmosphere nodes to visualize the Atmosphere."
 
 ## How to install
-If you want to install the template, you need to extract the folder inside the Templates folder of Unreal Engine,
+If you want to install the template, you need to extract and put the TP_AndroidGame folder inside the Templates folder of Unreal Engine,
 all the templates are usually placed in this path: "C:\Program Files\Epic Games\UE_5.2\Templates"
