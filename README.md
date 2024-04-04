@@ -1,4 +1,4 @@
-# An Unreal Engine C++ template
+# The Android template in C++ for Unreal Engine
 
 ## What is this?
 
