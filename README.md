@@ -1,5 +1,17 @@
 # The Android template in C++ for Unreal Engine
 
+## Requirements
+### Basic
+- Unreal Engine 5.2
+- Android Studio 4.0
+- Java SDK (latest version)
+- Java JRE 8
+
+### Guide 
+Follow this more in-depth [guide](https://youtu.be/sXfbLx_3FII?si=WHVGY3BXzNQT6zIC) (not made by me) to install all requirements to build in Android
+
+Credits: [Future Dev](https://www.youtube.com/@Future-Developer)
+
 ## What is this?
 
 This is an Unreal Engine 5.2 template ready to create Android games.
