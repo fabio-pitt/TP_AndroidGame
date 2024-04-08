@@ -25,15 +25,15 @@ The Game folder inside the Source folder with:
 - HUD
 
 The Content folder is filled with:
-- Maps folder: that's an empty map with sky** and lights
-- Materials: contain just a SkySphere Material** ready for Android
+- Maps folder: that's an empty map with sky and lights
+- Materials: contain just a SkySphere Material ready for Android
 - BP folder:
   - Game folder (blueprints derived from the code above):
     - BP_GameMode
     - BP_HUD 
 
 ### Sky Atmosphere and Material info
-** The sky dome and material are used to avoid this error in game:
+The sky dome and material are used to avoid this error in game:
 
 "On mobile the SkyAtmosphere component needs a mesh with a material tagged as IsSky and using the SkyAtmosphere nodes to visualize the Atmosphere."
 
