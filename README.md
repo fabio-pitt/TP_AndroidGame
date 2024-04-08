@@ -15,6 +15,7 @@ Credits: [Future Dev](https://www.youtube.com/@Future-Developer)
 ## What is this?
 
 This is an Unreal Engine 5.2 template ready to create Android games.
+
 It is ready for the C++ language, with the source folder it already contains some folders and files ready to start an Android Game
 
 ## What does it contain?
@@ -33,6 +34,7 @@ The Content folder is filled with:
 
 ### Sky Atmosphere and Material info
 ** The sky dome and material are used to avoid this error in game:
+
 "On mobile the SkyAtmosphere component needs a mesh with a material tagged as IsSky and using the SkyAtmosphere nodes to visualize the Atmosphere."
 
 ## How to install
