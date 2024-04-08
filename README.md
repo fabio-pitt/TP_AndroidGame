@@ -39,4 +39,6 @@ The sky dome and material are used to avoid this error in game:
 
 ## How to install
 If you want to install the template, you need to extract and put the "TP_AndroidGame" folder inside the Templates folder of Unreal Engine,
-all the templates are usually placed in this path: "C:\Program Files\Epic Games\UE_5.2\Templates"
+all the templates are usually placed in this path: 
+
+"C:\Program Files\Epic Games\UE_5.2\Templates"
