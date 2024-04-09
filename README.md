@@ -1,13 +1,13 @@
 # The Android template in C++ for Unreal Engine 5.*
 
 ### Table of content:
-- [What is this?](what-is-this)
-- [What does it contain?](what-does-it-contain?)
-- - [Sky Atmosphere and Material info](sky-atmosphere-and-material-info)
-- [Requirements](requirements)
-- - [Basic](basic)
-- - [Guide](guide)
-- [How to install](how-to-install)
+- [What is this?](https://github.com/fabio-pitt/TP_AndroidGame?tab=readme-ov-file#what-is-this)
+- [What does it contain?](https://github.com/fabio-pitt/TP_AndroidGame?tab=readme-ov-file#what-does-it-contain)
+- - [Sky Atmosphere and Material info](https://github.com/fabio-pitt/TP_AndroidGame?tab=readme-ov-file#sky-atmosphere-and-material-info)
+- [Requirements](https://github.com/fabio-pitt/TP_AndroidGame?tab=readme-ov-file#requirements)
+- - [Basic](https://github.com/fabio-pitt/TP_AndroidGame?tab=readme-ov-file#requirements)
+- - [Guide](https://github.com/fabio-pitt/TP_AndroidGame?tab=readme-ov-file#requirements)
+- [How to install](https://github.com/fabio-pitt/TP_AndroidGame?tab=readme-ov-file#requirements)
 
 ## What is this?
 
@@ -38,7 +38,7 @@ The sky dome and material are used to avoid this error in game:
 ## Requirements
 ### Basic
 - [Unreal Engine](https://www.unrealengine.com/en-US?sessionInvalidated=true) 5.2
-- [Android Studio](https://developer.android.com/studio/archive) 4.0 -> it should also work with the [latest version](https://developer.android.com/studio)
+- [Android Studio](https://developer.android.com/studio/archive) 4.0 -> it should also work with the latest version
 - [Java SDK](https://www.oracle.com/java/technologies/downloads/) latest version is ok
 - [Java JRE 8](https://www.oracle.com/java/technologies/downloads/)
 
@@ -54,4 +54,5 @@ all the templates are usually placed in this path:
 - Windows: "C:\Program Files\Epic Games\UE_[version]\Templates"
 - macOS: "/Users/Shared/Epic Games/UE_[version]/Templates"
 
-[GoUp](the-android-template-in-c++-for-unreal-engine-5.*)
+
+- [go up](the-android-template-in-c++-for-unreal-engine-5)
