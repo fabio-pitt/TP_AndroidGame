@@ -54,5 +54,5 @@ all the templates are usually placed in this path:
 - Windows: "C:\Program Files\Epic Games\UE_[version]\Templates"
 - macOS: "/Users/Shared/Epic Games/UE_[version]/Templates"
 
-
-- [go up](the-android-template-in-c++-for-unreal-engine-5)
+#
+[go up](https://github.com/fabio-pitt/TP_AndroidGame?tab=readme-ov-file#the-android-template-in-c-for-unreal-engine-5)
