@@ -1,4 +1,4 @@
-# The Android template in C++ for Unreal Engine 5.2
+# The Android template in C++ for Unreal Engine 5.*
 
 ### Table of content:
 - [What is this?](https://github.com/fabio-pitt/TP_AndroidGame?tab=readme-ov-file#what-is-this)
@@ -51,7 +51,7 @@ Credits: [Future Dev](https://www.youtube.com/@Future-Developer)
 If you want to install the template, you need to extract and put the "TP_AndroidGame" folder inside the Templates folder of Unreal Engine,
 all the templates are usually placed in this path: 
 
-- Windows: "C:\Program Files\Epic Games\UE_[version]\Templates"
+- Windows: "C:/Program Files\Epic Games/UE_[version]/Templates"
 - macOS: "/Users/Shared/Epic Games/UE_[version]/Templates"
 
 #
