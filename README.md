@@ -1,4 +1,4 @@
-# The Android template in C++ for Unreal Engine 5.*
+# The Android template in C++ for Unreal Engine 5.2
 
 ### Table of content:
 - [What is this?](https://github.com/fabio-pitt/TP_AndroidGame?tab=readme-ov-file#what-is-this)
