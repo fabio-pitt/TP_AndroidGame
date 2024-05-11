@@ -43,9 +43,9 @@ The sky dome and material are used to avoid this error in game:
 - [Java JRE 8](https://www.oracle.com/java/technologies/downloads/)
 
 ### Guide 
-Follow [this](https://youtu.be/sXfbLx_3FII?si=WHVGY3BXzNQT6zIC) more in-depth guide to install all requirements to build in Android
 
-Credits: [Future Dev](https://www.youtube.com/@Future-Developer)
+I will make a written guide as soon as possible, in the meantime you can follow [this video guide](https://youtu.be/sXfbLx_3FII?si=WHVGY3BXzNQT6zIC) to install all requirements to build in Android. Credits: [Future Dev](https://www.youtube.com/@Future-Developer)
+Netx follow the Unreal wiki for [Signing Projects for Release](https://dev.epicgames.com/documentation/en-us/unreal-engine/signing-android-projects-for-release-on-the-google-play-store-with-unreal-engine?application_version=5.2)
 
 ## How to install
 If you want to install the template, you need to extract and put the "TP_AndroidGame" folder inside the Templates folder of Unreal Engine,
